@@ -1,6 +1,6 @@
 /**
  * TransitionManager — 场景过渡管理器
- * 跨场景：黑色淡出 125ms + 淡入 125ms
+ * 跨场景：黑色淡出 50ms + 淡入 50ms
  * 同场景 restart / 状态刷新：不黑屏 fade
  * MainMenu / Intro：子元素缓慢淡入
  */
@@ -8,7 +8,7 @@ window.QW = window.QW || {};
 
 QW.TransitionManager = {
 
-    FADE_DURATION: 125,
+    FADE_DURATION: 50,
     SLOW_REVEAL_DURATION: 900,
     isTransitioning: false,
 

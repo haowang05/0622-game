@@ -6,11 +6,11 @@
 
 (function () {
     'use strict';
-    const APP_VERSION = 'v0.3.31-20260701-0012';
+    const APP_VERSION = 'v0.3.33-20260701-0058';
     window.QW = window.QW || {};
     window.QW.APP_VERSION = APP_VERSION;
 
-    let versionBadgeVisible = true;
+    let versionBadgeVisible = false;
 
     function ensureVersionBadge() {
         let versionBadge = document.getElementById('game-version-badge');
@@ -248,7 +248,7 @@
 
     // 切换调试面板
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'v' || e.key === 'V') {
+        if (e.key === 'k' || e.key === 'K') {
             versionBadgeVisible = !versionBadgeVisible;
             const versionBadge = document.getElementById('game-version-badge');
             if (versionBadge) {

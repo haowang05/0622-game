@@ -60,10 +60,10 @@ QW.PasswordScene = class extends Phaser.Scene {
         const GS = QW.GameState;
         factory.create(this.MANIFEST_KEY, '19/密码0-9/空.png', { depth: 50 });
 
-        this.currentPassword = [0, 0, 0, 0];
+        this.currentPassword = GS.getFlag('passwordReadyToOpen') ? [2, 5, 1, 3] : [0, 0, 0, 0];
         this._createPasswordSlots();
         this._renderPasswordDigits();
-        console.log('[S15] Password locked, current: 0000');
+        console.log('[S15] Password locked, current:', this.currentPassword.join(''));
 
         // 输入正确后，需再点击一次抽屉区域才开抽屉
         if (GS.getFlag('passwordReadyToOpen')) {
