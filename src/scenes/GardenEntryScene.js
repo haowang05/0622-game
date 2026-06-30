@@ -48,10 +48,11 @@ QW.GardenEntryScene = class extends Phaser.Scene {
         new QW.MenuBar(this, factory, this.MANIFEST_KEY);
         this.inventoryDisplay = new QW.InventoryDisplay(this, factory, this.MANIFEST_KEY);
 
-        // 返回箭头（回到客厅B面）
+        // 返回箭头：鱼塘点亮后回到客厅A，避免重新进入 LivingRoomB
+        const backTargetScene = GS.getFlag('pondLitUp') ? 'LivingRoomA' : 'LivingRoomB';
         new QW.NavigationArrows(this, factory, this.MANIFEST_KEY, {
             showBack: true,
-            backTargetScene: 'LivingRoomB'
+            backTargetScene
         });
 
         // 草坪（可点击 → 花园仰望）

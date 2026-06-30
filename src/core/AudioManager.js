@@ -21,6 +21,7 @@ QW.AudioManager = {
     _bgmVolume: 0.45,
     _bgmFrontVolume: 0.62,
     _sfxVolume: 0.85,
+    _clickVolume: 0.55,
 
     preload(scene) {
         if (this._queued) return;
@@ -73,7 +74,7 @@ QW.AudioManager = {
             this._suppressClickThisFrame = false;
             return;
         }
-        this._play(scene, 'click', { volume: this._sfxVolume });
+        this._play(scene, 'click', { volume: this._clickVolume });
     },
 
     playDoor(scene) {

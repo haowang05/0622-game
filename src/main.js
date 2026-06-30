@@ -6,7 +6,7 @@
 
 (function () {
     'use strict';
-    const APP_VERSION = 'v0.3.29-20260630-1847';
+    const APP_VERSION = 'v0.3.30-20260630-2359';
     window.QW = window.QW || {};
     window.QW.APP_VERSION = APP_VERSION;
 

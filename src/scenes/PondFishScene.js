@@ -40,7 +40,7 @@ QW.PondFishScene = class extends Phaser.Scene {
 
         // 返回箭头：池塘点亮后，返回室内直接落到 LivingRoomA
         const backTargetScene = GS.getFlag('pondLitUp') ? 'LivingRoomA' : undefined;
-        new QW.NavigationArrows(this, factory, this.MANIFEST_KEY, {
+        this.navigationArrows = new QW.NavigationArrows(this, factory, this.MANIFEST_KEY, {
             showBack: true,
             backTargetScene
         });
@@ -101,6 +101,9 @@ QW.PondFishScene = class extends Phaser.Scene {
                 GS.addItem('saw');
                 GS.setFlag('sawAcquired', true);
                 GS.setFlag('pondLitUp', true);
+                if (this.navigationArrows && this.navigationArrows.config) {
+                    this.navigationArrows.config.backTargetScene = 'LivingRoomA';
+                }
 
                 if (this.inventoryDisplay) this.inventoryDisplay.refresh();
                 if (this.sawSprite) this.sawSprite.destroy();
