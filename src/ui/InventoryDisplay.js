@@ -134,10 +134,15 @@ QW.InventoryDisplay = class {
                         ? (config.selectedManifestKey || config.manifestKey)
                         : config.manifestKey;
                     const textureKey = QW.AssetLoaderInstance.getKey(lookupManifestKey, assetName);
+                    const position = QW.AssetLoaderInstance.getPosition(lookupManifestKey, assetName);
                     console.log(`[Inventory] Switching texture for ${itemKey}:`, assetName, '->', textureKey);
                     
                     if (textureKey) {
                         sprite.setTexture(textureKey);
+                        if (position) {
+                            // 选中/未选中素材的裁剪框与 offset 不同，切图时必须同步位置，避免图标跳位。
+                            sprite.setPosition(position.x, position.y);
+                        }
                     } else {
                         console.warn(`[Inventory] Texture key not found for ${assetName}`);
                     }
