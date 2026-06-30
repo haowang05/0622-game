@@ -1,0 +1,3539 @@
+{
+  "canvas": {
+    "width": 2800,
+    "height": 1840
+  },
+  "padding": 2,
+  "scenes": {
+    "1": {
+      "1/exit 未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 578,
+        "height": 214,
+        "offset": {
+          "x": 320,
+          "y": 1509
+        },
+        "output_path": "cropped/1/exit 未选择.png",
+        "file_size_reduction": "70%"
+      },
+      "1/exit 选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 578,
+        "height": 214,
+        "offset": {
+          "x": 320,
+          "y": 1509
+        },
+        "output_path": "cropped/1/exit 选择.png",
+        "file_size_reduction": "69%"
+      },
+      "1/setting 未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 787,
+        "height": 269,
+        "offset": {
+          "x": 208,
+          "y": 1247
+        },
+        "output_path": "cropped/1/setting 未选择.png",
+        "file_size_reduction": "60%"
+      },
+      "1/setting 选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 787,
+        "height": 269,
+        "offset": {
+          "x": 208,
+          "y": 1247
+        },
+        "output_path": "cropped/1/setting 选择.png",
+        "file_size_reduction": "57%"
+      },
+      "1/start 未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 580,
+        "height": 279,
+        "offset": {
+          "x": 291,
+          "y": 966
+        },
+        "output_path": "cropped/1/start 未选择.png",
+        "file_size_reduction": "65%"
+      },
+      "1/start 选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 580,
+        "height": 279,
+        "offset": {
+          "x": 291,
+          "y": 966
+        },
+        "output_path": "cropped/1/start 选择.png",
+        "file_size_reduction": "63%"
+      },
+      "1/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/1/背景.png"
+      }
+    },
+    "2": {
+      "2/1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2484,
+        "height": 1438,
+        "offset": {
+          "x": 114,
+          "y": 76
+        },
+        "output_path": "cropped/2/1.png",
+        "file_size_reduction": "7%"
+      },
+      "2/2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1054,
+        "height": 928,
+        "offset": {
+          "x": 784,
+          "y": 82
+        },
+        "output_path": "cropped/2/2.png",
+        "file_size_reduction": "17%"
+      },
+      "2/3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 810,
+        "height": 922,
+        "offset": {
+          "x": 1875,
+          "y": 87
+        },
+        "output_path": "cropped/2/3.png",
+        "file_size_reduction": "26%"
+      },
+      "2/4.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 729,
+        "height": 890,
+        "offset": {
+          "x": 117,
+          "y": 866
+        },
+        "output_path": "cropped/2/4.png",
+        "file_size_reduction": "19%"
+      },
+      "2/5.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1810,
+        "height": 680,
+        "offset": {
+          "x": 867,
+          "y": 1058
+        },
+        "output_path": "cropped/2/5.png",
+        "file_size_reduction": "14%"
+      },
+      "2/open 未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 137,
+        "height": 144,
+        "offset": {
+          "x": 1238,
+          "y": 1470
+        },
+        "output_path": "cropped/2/open 未选择.png",
+        "file_size_reduction": "79%"
+      },
+      "2/open选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 137,
+        "height": 144,
+        "offset": {
+          "x": 1238,
+          "y": 1470
+        },
+        "output_path": "cropped/2/open选择.png",
+        "file_size_reduction": "79%"
+      },
+      "2/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/2/背景.png"
+      }
+    },
+    "3": {
+      "3/信.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 973,
+        "height": 678,
+        "offset": {
+          "x": 799,
+          "y": 1162
+        },
+        "output_path": "cropped/3/信.png",
+        "file_size_reduction": "40%"
+      },
+      "3/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/3/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "3/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/3/背景.png"
+      },
+      "3/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/3/菜单栏.png",
+        "file_size_reduction": "53%"
+      }
+    },
+    "4": {
+      "4/accept 按钮.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 591,
+        "height": 435,
+        "offset": {
+          "x": 1206,
+          "y": 1272
+        },
+        "output_path": "cropped/4/accept 按钮.png",
+        "file_size_reduction": "52%"
+      },
+      "4/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/4/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "4/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/4/背景.png"
+      },
+      "4/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/4/菜单栏.png",
+        "file_size_reduction": "53%"
+      }
+    },
+    "5,7": {
+      "5,7/信箱.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 496,
+        "height": 754,
+        "offset": {
+          "x": 1864,
+          "y": 1086
+        },
+        "output_path": "cropped/5,7/信箱.png",
+        "file_size_reduction": "27%"
+      },
+      "5,7/开门.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 411,
+        "height": 687,
+        "offset": {
+          "x": 1339,
+          "y": 696
+        },
+        "output_path": "cropped/5,7/开门.png",
+        "file_size_reduction": "29%"
+      },
+      "5,7/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/5,7/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "5,7/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/5,7/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "5,7/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/5,7/背景.png"
+      },
+      "5,7/背景1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/5,7/背景1.png"
+      },
+      "5,7/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/5,7/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "5,7/钥匙选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 280,
+        "height": 194,
+        "offset": {
+          "x": 904,
+          "y": 1580
+        },
+        "output_path": "cropped/5,7/钥匙选择.png",
+        "file_size_reduction": "69%"
+      },
+      "5,7/钥匙道具.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 221,
+        "height": 193,
+        "offset": {
+          "x": 939,
+          "y": 1581
+        },
+        "output_path": "cropped/5,7/钥匙道具.png",
+        "file_size_reduction": "79%"
+      },
+      "5,7/门.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 556,
+        "height": 530,
+        "offset": {
+          "x": 1339,
+          "y": 870
+        },
+        "output_path": "cropped/5,7/门.png",
+        "file_size_reduction": "29%"
+      }
+    },
+    "6": {
+      "6/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 248,
+        "height": 252,
+        "offset": {
+          "x": 2198,
+          "y": 67
+        },
+        "output_path": "cropped/6/X.png",
+        "file_size_reduction": "83%"
+      },
+      "6/弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2311,
+        "height": 1610,
+        "offset": {
+          "x": 301,
+          "y": 67
+        },
+        "output_path": "cropped/6/弹窗.png",
+        "file_size_reduction": "2%"
+      },
+      "6/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/6/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "6/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/6/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "6/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/6/背景.png"
+      },
+      "6/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/6/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "6/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/6/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      },
+      "6/邮箱关.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1098,
+        "height": 1412,
+        "offset": {
+          "x": 743,
+          "y": 428
+        },
+        "output_path": "cropped/6/邮箱关.png",
+        "file_size_reduction": "11%"
+      },
+      "6/邮箱开.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1431,
+        "height": 1412,
+        "offset": {
+          "x": 743,
+          "y": 428
+        },
+        "output_path": "cropped/6/邮箱开.png",
+        "file_size_reduction": "9%"
+      },
+      "6/邮箱空.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1431,
+        "height": 1412,
+        "offset": {
+          "x": 743,
+          "y": 428
+        },
+        "output_path": "cropped/6/邮箱空.png",
+        "file_size_reduction": "10%"
+      },
+      "6/钥匙.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 221,
+        "height": 193,
+        "offset": {
+          "x": 939,
+          "y": 1581
+        },
+        "output_path": "cropped/6/钥匙.png",
+        "file_size_reduction": "79%"
+      }
+    },
+    "8": {
+      "8/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 290,
+        "height": 304,
+        "offset": {
+          "x": 2123,
+          "y": 105
+        },
+        "output_path": "cropped/8/X.png",
+        "file_size_reduction": "79%"
+      },
+      "8/书架.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1650,
+        "height": 1692,
+        "offset": {
+          "x": 183,
+          "y": 112
+        },
+        "output_path": "cropped/8/书架.png",
+        "file_size_reduction": "10%"
+      },
+      "8/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/8/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "8/提示.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 656,
+        "offset": {
+          "x": 413,
+          "y": 1177
+        },
+        "output_path": "cropped/8/提示.png",
+        "file_size_reduction": "6%"
+      },
+      "8/沙发.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1188,
+        "height": 1293,
+        "offset": {
+          "x": 1346,
+          "y": 399
+        },
+        "output_path": "cropped/8/沙发.png",
+        "file_size_reduction": "22%"
+      },
+      "8/照片弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2042,
+        "height": 1548,
+        "offset": {
+          "x": 400,
+          "y": 105
+        },
+        "output_path": "cropped/8/照片弹窗.png",
+        "file_size_reduction": "6%"
+      },
+      "8/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/8/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "8/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/8/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "8/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/8/背景.png"
+      },
+      "8/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/8/菜单栏.png",
+        "file_size_reduction": "53%"
+      }
+    },
+    "9,11": {
+      "9,11/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 196,
+        "height": 199,
+        "offset": {
+          "x": 2335,
+          "y": 122
+        },
+        "output_path": "cropped/9,11/X.png",
+        "file_size_reduction": "86%"
+      },
+      "9,11/os.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1858,
+        "height": 654,
+        "offset": {
+          "x": 447,
+          "y": 1186
+        },
+        "output_path": "cropped/9,11/os.png",
+        "file_size_reduction": "8%"
+      },
+      "9,11/壶选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 920,
+        "height": 285,
+        "offset": {
+          "x": 903,
+          "y": 1477
+        },
+        "output_path": "cropped/9,11/壶选择.png",
+        "file_size_reduction": "42%"
+      },
+      "9,11/壶道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 896,
+        "height": 272,
+        "offset": {
+          "x": 927,
+          "y": 1477
+        },
+        "output_path": "cropped/9,11/壶道具未选择.png",
+        "file_size_reduction": "45%"
+      },
+      "9,11/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/9,11/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "9,11/浇水.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1286,
+        "height": 1325,
+        "offset": {
+          "x": 1150,
+          "y": 344
+        },
+        "output_path": "cropped/9,11/浇水.png",
+        "file_size_reduction": "19%"
+      },
+      "9,11/照片弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2281,
+        "height": 1562,
+        "offset": {
+          "x": 275,
+          "y": 122
+        },
+        "output_path": "cropped/9,11/照片弹窗.png",
+        "file_size_reduction": "4%"
+      },
+      "9,11/相机.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 192,
+        "height": 195,
+        "offset": {
+          "x": 2546,
+          "y": 302
+        },
+        "output_path": "cropped/9,11/相机.png",
+        "file_size_reduction": "60%"
+      },
+      "9,11/窗台原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1286,
+        "height": 1325,
+        "offset": {
+          "x": 1150,
+          "y": 344
+        },
+        "output_path": "cropped/9,11/窗台原.png",
+        "file_size_reduction": "19%"
+      },
+      "9,11/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/9,11/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "9,11/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/9,11/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "9,11/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/9,11/背景.png"
+      },
+      "9,11/花亮.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1286,
+        "height": 1325,
+        "offset": {
+          "x": 1150,
+          "y": 344
+        },
+        "output_path": "cropped/9,11/花亮.png",
+        "file_size_reduction": "19%"
+      },
+      "9,11/花园门.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 792,
+        "height": 1462,
+        "offset": {
+          "x": 300,
+          "y": 40
+        },
+        "output_path": "cropped/9,11/花园门.png",
+        "file_size_reduction": "28%"
+      },
+      "9,11/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/9,11/菜单栏.png",
+        "file_size_reduction": "53%"
+      }
+    },
+    "10": {
+      "10/卧室门.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 792,
+        "height": 1233,
+        "offset": {
+          "x": 1691,
+          "y": 269
+        },
+        "output_path": "cropped/10/卧室门.png",
+        "file_size_reduction": "29%"
+      },
+      "10/壶选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 920,
+        "height": 285,
+        "offset": {
+          "x": 903,
+          "y": 1477
+        },
+        "output_path": "cropped/10/壶选择.png",
+        "file_size_reduction": "42%"
+      },
+      "10/壶道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 896,
+        "height": 272,
+        "offset": {
+          "x": 927,
+          "y": 1477
+        },
+        "output_path": "cropped/10/壶道具未选择.png",
+        "file_size_reduction": "45%"
+      },
+      "10/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/10/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "10/开柜门壶在柜子里.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1381,
+        "height": 1036,
+        "offset": {
+          "x": 299,
+          "y": 583
+        },
+        "output_path": "cropped/10/开柜门壶在柜子里.png",
+        "file_size_reduction": "17%"
+      },
+      "10/接水.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1898,
+        "height": 1036,
+        "offset": {
+          "x": 299,
+          "y": 583
+        },
+        "output_path": "cropped/10/接水.png",
+        "file_size_reduction": "13%"
+      },
+      "10/柜子.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1381,
+        "height": 1036,
+        "offset": {
+          "x": 299,
+          "y": 583
+        },
+        "output_path": "cropped/10/柜子.png",
+        "file_size_reduction": "19%"
+      },
+      "10/空柜子.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1381,
+        "height": 1036,
+        "offset": {
+          "x": 299,
+          "y": 583
+        },
+        "output_path": "cropped/10/空柜子.png",
+        "file_size_reduction": "19%"
+      },
+      "10/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/10/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "10/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/10/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "10/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/10/背景.png"
+      },
+      "10/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/10/菜单栏.png",
+        "file_size_reduction": "53%"
+      }
+    },
+    "12": {
+      "12/水塘.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2325,
+        "height": 1032,
+        "offset": {
+          "x": 256,
+          "y": 493
+        },
+        "output_path": "cropped/12/水塘.png",
+        "file_size_reduction": "14%"
+      },
+      "12/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/12/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "12/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/12/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "12/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/12/背景.png"
+      },
+      "12/背景1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/12/背景1.png"
+      },
+      "12/草坪.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2800,
+        "height": 1081,
+        "offset": {
+          "x": 0,
+          "y": 748
+        },
+        "output_path": "cropped/12/草坪.png",
+        "file_size_reduction": "7%"
+      },
+      "12/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/12/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "12/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/12/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      }
+    },
+    "13": {
+      "13/OS.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 656,
+        "offset": {
+          "x": 485,
+          "y": 1180
+        },
+        "output_path": "cropped/13/OS.png",
+        "file_size_reduction": "7%"
+      },
+      "13/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 325,
+        "height": 322,
+        "offset": {
+          "x": 2210,
+          "y": 22
+        },
+        "output_path": "cropped/13/X.png",
+        "file_size_reduction": "77%"
+      },
+      "13/云1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1540,
+        "height": 874,
+        "offset": {
+          "x": 519,
+          "y": 479
+        },
+        "output_path": "cropped/13/云1.png",
+        "file_size_reduction": "42%"
+      },
+      "13/云2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 734,
+        "height": 246,
+        "offset": {
+          "x": 1547,
+          "y": 305
+        },
+        "output_path": "cropped/13/云2.png",
+        "file_size_reduction": "60%"
+      },
+      "13/云3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 852,
+        "height": 450,
+        "offset": {
+          "x": 1236,
+          "y": 903
+        },
+        "output_path": "cropped/13/云3.png",
+        "file_size_reduction": "46%"
+      },
+      "13/云亮1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 675,
+        "height": 353,
+        "offset": {
+          "x": 519,
+          "y": 475
+        },
+        "output_path": "cropped/13/云亮1.png",
+        "file_size_reduction": "58%"
+      },
+      "13/云亮2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 734,
+        "height": 1048,
+        "offset": {
+          "x": 1547,
+          "y": 301
+        },
+        "output_path": "cropped/13/云亮2.png",
+        "file_size_reduction": "50%"
+      },
+      "13/云亮3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 852,
+        "height": 402,
+        "offset": {
+          "x": 1236,
+          "y": 899
+        },
+        "output_path": "cropped/13/云亮3.png",
+        "file_size_reduction": "47%"
+      },
+      "13/亮背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/13/亮背景.png"
+      },
+      "13/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/13/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "13/木头（照片上.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1254,
+        "height": 574,
+        "offset": {
+          "x": 1332,
+          "y": 287
+        },
+        "output_path": "cropped/13/木头（照片上.png",
+        "file_size_reduction": "49%"
+      },
+      "13/照片弹窗背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/13/照片弹窗背景.png"
+      },
+      "13/相机.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 192,
+        "height": 195,
+        "offset": {
+          "x": 2546,
+          "y": 302
+        },
+        "output_path": "cropped/13/相机.png",
+        "file_size_reduction": "60%"
+      },
+      "13/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/13/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "13/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/13/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "13/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/13/背景.png"
+      },
+      "13/花1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 770,
+        "height": 1077,
+        "offset": {
+          "x": 0,
+          "y": 763
+        },
+        "output_path": "cropped/13/花1.png",
+        "file_size_reduction": "27%"
+      },
+      "13/花2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 606,
+        "height": 683,
+        "offset": {
+          "x": 2194,
+          "y": 1157
+        },
+        "output_path": "cropped/13/花2.png",
+        "file_size_reduction": "39%"
+      },
+      "13/花3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 564,
+        "height": 806,
+        "offset": {
+          "x": 0,
+          "y": 218
+        },
+        "output_path": "cropped/13/花3.png",
+        "file_size_reduction": "37%"
+      },
+      "13/花4.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 451,
+        "height": 595,
+        "offset": {
+          "x": 2349,
+          "y": 624
+        },
+        "output_path": "cropped/13/花4.png",
+        "file_size_reduction": "46%"
+      },
+      "13/花5.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2800,
+        "height": 928,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/13/花5.png",
+        "file_size_reduction": "10%"
+      },
+      "13/花亮1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 770,
+        "height": 1077,
+        "offset": {
+          "x": 0,
+          "y": 763
+        },
+        "output_path": "cropped/13/花亮1.png",
+        "file_size_reduction": "27%"
+      },
+      "13/花亮2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 606,
+        "height": 683,
+        "offset": {
+          "x": 2194,
+          "y": 1157
+        },
+        "output_path": "cropped/13/花亮2.png",
+        "file_size_reduction": "38%"
+      },
+      "13/花亮3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 564,
+        "height": 806,
+        "offset": {
+          "x": 0,
+          "y": 218
+        },
+        "output_path": "cropped/13/花亮3.png",
+        "file_size_reduction": "37%"
+      },
+      "13/花亮4.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 451,
+        "height": 595,
+        "offset": {
+          "x": 2349,
+          "y": 624
+        },
+        "output_path": "cropped/13/花亮4.png",
+        "file_size_reduction": "46%"
+      },
+      "13/花亮5.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2800,
+        "height": 928,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/13/花亮5.png",
+        "file_size_reduction": "10%"
+      },
+      "13/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/13/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "13/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/13/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      }
+    },
+    "14，16": {
+      "14，16/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/14，16/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "14，16/池塘亮.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2325,
+        "height": 1032,
+        "offset": {
+          "x": 256,
+          "y": 493
+        },
+        "output_path": "cropped/14，16/池塘亮.png",
+        "file_size_reduction": "13%"
+      },
+      "14，16/池塘原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2325,
+        "height": 1032,
+        "offset": {
+          "x": 256,
+          "y": 493
+        },
+        "output_path": "cropped/14，16/池塘原.png",
+        "file_size_reduction": "14%"
+      },
+      "14，16/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/14，16/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "14，16/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/14，16/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "14，16/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/14，16/背景.png"
+      },
+      "14，16/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/14，16/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "14，16/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/14，16/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      },
+      "14，16/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/14，16/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      }
+    },
+    "15": {
+      "15/亮池塘（在鱼上.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2099,
+        "height": 1353,
+        "offset": {
+          "x": 231,
+          "y": 200
+        },
+        "output_path": "cropped/15/亮池塘（在鱼上.png",
+        "file_size_reduction": "5%"
+      },
+      "15/亮背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/15/亮背景.png"
+      },
+      "15/原池塘（在鱼图层上.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2161,
+        "height": 1361,
+        "offset": {
+          "x": 231,
+          "y": 192
+        },
+        "output_path": "cropped/15/原池塘（在鱼图层上.png",
+        "file_size_reduction": "5%"
+      },
+      "15/原背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/15/原背景.png"
+      },
+      "15/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/15/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "15/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/15/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "15/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/15/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "15/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/15/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "15/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/15/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      },
+      "15/锯子.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 430,
+        "height": 873,
+        "offset": {
+          "x": 1524,
+          "y": 885
+        },
+        "output_path": "cropped/15/锯子.png",
+        "file_size_reduction": "56%"
+      },
+      "15/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/15/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      },
+      "15/鱼1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 429,
+        "height": 300,
+        "offset": {
+          "x": 825,
+          "y": 748
+        },
+        "output_path": "cropped/15/鱼1.png",
+        "file_size_reduction": "57%"
+      },
+      "15/鱼2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 281,
+        "height": 258,
+        "offset": {
+          "x": 1066,
+          "y": 1037
+        },
+        "output_path": "cropped/15/鱼2.png",
+        "file_size_reduction": "68%"
+      },
+      "15/鱼3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 363,
+        "height": 249,
+        "offset": {
+          "x": 1275,
+          "y": 861
+        },
+        "output_path": "cropped/15/鱼3.png",
+        "file_size_reduction": "66%"
+      },
+      "15/鱼亮1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 429,
+        "height": 300,
+        "offset": {
+          "x": 825,
+          "y": 748
+        },
+        "output_path": "cropped/15/鱼亮1.png",
+        "file_size_reduction": "57%"
+      },
+      "15/鱼亮2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 281,
+        "height": 258,
+        "offset": {
+          "x": 1066,
+          "y": 1037
+        },
+        "output_path": "cropped/15/鱼亮2.png",
+        "file_size_reduction": "68%"
+      },
+      "15/鱼亮3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 363,
+        "height": 249,
+        "offset": {
+          "x": 1275,
+          "y": 861
+        },
+        "output_path": "cropped/15/鱼亮3.png",
+        "file_size_reduction": "66%"
+      }
+    },
+    "17，21": {
+      "17，21/卧室门.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 792,
+        "height": 1233,
+        "offset": {
+          "x": 1691,
+          "y": 269
+        },
+        "output_path": "cropped/17，21/卧室门.png",
+        "file_size_reduction": "29%"
+      },
+      "17，21/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/17，21/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "17，21/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/17，21/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "17，21/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/17，21/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "17，21/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/17，21/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "17，21/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/17，21/背景.png"
+      },
+      "17，21/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/17，21/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "17，21/钉子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 203,
+        "height": 138,
+        "offset": {
+          "x": 1862,
+          "y": 1604
+        },
+        "output_path": "cropped/17，21/钉子道具未选择.png",
+        "file_size_reduction": "81%"
+      },
+      "17，21/锤子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 222,
+        "height": 169,
+        "offset": {
+          "x": 1574,
+          "y": 1585
+        },
+        "output_path": "cropped/17，21/锤子道具未选择.png",
+        "file_size_reduction": "80%"
+      },
+      "17，21/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/17，21/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      }
+    },
+    "18，20": {
+      "18，20/密码柜桌子.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1347,
+        "height": 1154,
+        "offset": {
+          "x": 1280,
+          "y": 686
+        },
+        "output_path": "cropped/18，20/密码柜桌子.png",
+        "file_size_reduction": "18%"
+      },
+      "18，20/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/18，20/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "18，20/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/18，20/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "18，20/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/18，20/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "18，20/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/18，20/背景.png"
+      },
+      "18，20/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/18，20/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "18，20/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/18，20/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      },
+      "18，20/钉子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 203,
+        "height": 138,
+        "offset": {
+          "x": 1862,
+          "y": 1604
+        },
+        "output_path": "cropped/18，20/钉子道具未选择.png",
+        "file_size_reduction": "81%"
+      },
+      "18，20/锤子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 222,
+        "height": 169,
+        "offset": {
+          "x": 1574,
+          "y": 1585
+        },
+        "output_path": "cropped/18，20/锤子道具未选择.png",
+        "file_size_reduction": "80%"
+      },
+      "18，20/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/18，20/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      }
+    },
+    "19": {
+      "19/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 287,
+        "height": 284,
+        "offset": {
+          "x": 2183,
+          "y": 34
+        },
+        "output_path": "cropped/19/X.png",
+        "file_size_reduction": "81%"
+      },
+      "19/开抽屉.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2245,
+        "height": 1840,
+        "offset": {
+          "x": 555,
+          "y": 0
+        },
+        "output_path": "cropped/19/开抽屉.png",
+        "file_size_reduction": "4%"
+      },
+      "19/日记弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2183,
+        "height": 1581,
+        "offset": {
+          "x": 289,
+          "y": 34
+        },
+        "output_path": "cropped/19/日记弹窗.png",
+        "file_size_reduction": "4%"
+      },
+      "19/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/19/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "19/空抽屉.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2245,
+        "height": 1840,
+        "offset": {
+          "x": 555,
+          "y": 0
+        },
+        "output_path": "cropped/19/空抽屉.png",
+        "file_size_reduction": "4%"
+      },
+      "19/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/19/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "19/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/19/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "19/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/19/背景.png"
+      },
+      "19/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/19/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "19/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/19/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      },
+      "19/钉子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 203,
+        "height": 138,
+        "offset": {
+          "x": 1862,
+          "y": 1604
+        },
+        "output_path": "cropped/19/钉子道具未选择.png",
+        "file_size_reduction": "81%"
+      },
+      "19/锤子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 222,
+        "height": 169,
+        "offset": {
+          "x": 1574,
+          "y": 1585
+        },
+        "output_path": "cropped/19/锤子道具未选择.png",
+        "file_size_reduction": "80%"
+      },
+      "19/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/19/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      },
+      "19/密码0-9/0.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 74,
+        "height": 108,
+        "offset": {
+          "x": 1078,
+          "y": 740
+        },
+        "output_path": "cropped/19/密码0-9/0.png",
+        "file_size_reduction": "94%"
+      },
+      "19/密码0-9/1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 33,
+        "height": 98,
+        "offset": {
+          "x": 1090,
+          "y": 752
+        },
+        "output_path": "cropped/19/密码0-9/1.png",
+        "file_size_reduction": "96%"
+      },
+      "19/密码0-9/2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 69,
+        "height": 84,
+        "offset": {
+          "x": 1071,
+          "y": 746
+        },
+        "output_path": "cropped/19/密码0-9/2.png",
+        "file_size_reduction": "95%"
+      },
+      "19/密码0-9/3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 59,
+        "height": 97,
+        "offset": {
+          "x": 1078,
+          "y": 741
+        },
+        "output_path": "cropped/19/密码0-9/3.png",
+        "file_size_reduction": "96%"
+      },
+      "19/密码0-9/4.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 62,
+        "height": 89,
+        "offset": {
+          "x": 1075,
+          "y": 756
+        },
+        "output_path": "cropped/19/密码0-9/4.png",
+        "file_size_reduction": "95%"
+      },
+      "19/密码0-9/5.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 78,
+        "height": 85,
+        "offset": {
+          "x": 1067,
+          "y": 745
+        },
+        "output_path": "cropped/19/密码0-9/5.png",
+        "file_size_reduction": "96%"
+      },
+      "19/密码0-9/6.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 57,
+        "height": 93,
+        "offset": {
+          "x": 1084,
+          "y": 739
+        },
+        "output_path": "cropped/19/密码0-9/6.png",
+        "file_size_reduction": "96%"
+      },
+      "19/密码0-9/7.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 63,
+        "height": 99,
+        "offset": {
+          "x": 1083,
+          "y": 737
+        },
+        "output_path": "cropped/19/密码0-9/7.png",
+        "file_size_reduction": "96%"
+      },
+      "19/密码0-9/8.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 70,
+        "height": 115,
+        "offset": {
+          "x": 1079,
+          "y": 729
+        },
+        "output_path": "cropped/19/密码0-9/8.png",
+        "file_size_reduction": "93%"
+      },
+      "19/密码0-9/9.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 65,
+        "height": 116,
+        "offset": {
+          "x": 1079,
+          "y": 732
+        },
+        "output_path": "cropped/19/密码0-9/9.png",
+        "file_size_reduction": "95%"
+      },
+      "19/密码0-9/空.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码0-9/空.png",
+        "file_size_reduction": "51%"
+      },
+      "19/密码/1.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/1.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/2.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/3.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/3.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/5.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/5.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/6.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/6.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/7.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/7.png",
+        "file_size_reduction": "50%"
+      },
+      "19/密码/8.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/8.png",
+        "file_size_reduction": "49%"
+      },
+      "19/密码/9.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 616,
+        "height": 296,
+        "offset": {
+          "x": 1004,
+          "y": 649
+        },
+        "output_path": "cropped/19/密码/9.png",
+        "file_size_reduction": "49%"
+      }
+    },
+    "22": {
+      "22/X.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 290,
+        "height": 304,
+        "offset": {
+          "x": 2123,
+          "y": 105
+        },
+        "output_path": "cropped/22/X.png",
+        "file_size_reduction": "81%"
+      },
+      "22/X修好沙发照片.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 302,
+        "height": 304,
+        "offset": {
+          "x": 2204,
+          "y": 119
+        },
+        "output_path": "cropped/22/X修好沙发照片.png",
+        "file_size_reduction": "77%"
+      },
+      "22/书架.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1650,
+        "height": 1703,
+        "offset": {
+          "x": 183,
+          "y": 101
+        },
+        "output_path": "cropped/22/书架.png",
+        "file_size_reduction": "11%"
+      },
+      "22/修好沙发照片弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2288,
+        "height": 1529,
+        "offset": {
+          "x": 301,
+          "y": 119
+        },
+        "output_path": "cropped/22/修好沙发照片弹窗.png",
+        "file_size_reduction": "4%"
+      },
+      "22/坏沙发.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1188,
+        "height": 1287,
+        "offset": {
+          "x": 1346,
+          "y": 399
+        },
+        "output_path": "cropped/22/坏沙发.png",
+        "file_size_reduction": "22%"
+      },
+      "22/好沙发.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1188,
+        "height": 1319,
+        "offset": {
+          "x": 1346,
+          "y": 399
+        },
+        "output_path": "cropped/22/好沙发.png",
+        "file_size_reduction": "21%"
+      },
+      "22/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/22/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "22/查看笔记本提示.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 534,
+        "offset": {
+          "x": 467,
+          "y": 1188
+        },
+        "output_path": "cropped/22/查看笔记本提示.png",
+        "file_size_reduction": "8%"
+      },
+      "22/照片弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2371,
+        "height": 1548,
+        "offset": {
+          "x": 400,
+          "y": 105
+        },
+        "output_path": "cropped/22/照片弹窗.png",
+        "file_size_reduction": "6%"
+      },
+      "22/相机.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 192,
+        "height": 195,
+        "offset": {
+          "x": 2546,
+          "y": 302
+        },
+        "output_path": "cropped/22/相机.png",
+        "file_size_reduction": "60%"
+      },
+      "22/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/22/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "22/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/22/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "22/背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/22/背景.png"
+      },
+      "22/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/22/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "22/修沙发/X修沙发弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 302,
+        "height": 304,
+        "offset": {
+          "x": 2204,
+          "y": 119
+        },
+        "output_path": "cropped/22/修沙发/X修沙发弹窗.png",
+        "file_size_reduction": "77%"
+      },
+      "22/修沙发/修好沙发os.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 534,
+        "offset": {
+          "x": 467,
+          "y": 1188
+        },
+        "output_path": "cropped/22/修沙发/修好沙发os.png",
+        "file_size_reduction": "6%"
+      },
+      "22/修沙发/修完沙发.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2495,
+        "height": 1593,
+        "offset": {
+          "x": 94,
+          "y": 55
+        },
+        "output_path": "cropped/22/修沙发/修完沙发.png",
+        "file_size_reduction": "5%"
+      },
+      "22/修沙发/修沙发弹窗.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2495,
+        "height": 1529,
+        "offset": {
+          "x": 94,
+          "y": 119
+        },
+        "output_path": "cropped/22/修沙发/修沙发弹窗.png",
+        "file_size_reduction": "5%"
+      },
+      "22/修沙发/拖动吸附到椅子腿上的木料原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 321,
+        "height": 194,
+        "offset": {
+          "x": 1255,
+          "y": 939
+        },
+        "output_path": "cropped/22/修沙发/拖动吸附到椅子腿上的木料原.png",
+        "file_size_reduction": "78%"
+      },
+      "22/修沙发/提示修沙发.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 534,
+        "offset": {
+          "x": 467,
+          "y": 1188
+        },
+        "output_path": "cropped/22/修沙发/提示修沙发.png",
+        "file_size_reduction": "8%"
+      },
+      "22/修沙发/木头分开.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 595,
+        "height": 396,
+        "offset": {
+          "x": 1785,
+          "y": 1140
+        },
+        "output_path": "cropped/22/修沙发/木头分开.png",
+        "file_size_reduction": "51%"
+      },
+      "22/修沙发/木头原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 283,
+        "height": 411,
+        "offset": {
+          "x": 1828,
+          "y": 1121
+        },
+        "output_path": "cropped/22/修沙发/木头原.png",
+        "file_size_reduction": "64%"
+      },
+      "22/修沙发/留下的木料.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 585,
+        "height": 374,
+        "offset": {
+          "x": 1871,
+          "y": 1111
+        },
+        "output_path": "cropped/22/修沙发/留下的木料.png",
+        "file_size_reduction": "67%"
+      },
+      "22/修沙发/钉子2.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 148,
+        "height": 194,
+        "offset": {
+          "x": 1255,
+          "y": 939
+        },
+        "output_path": "cropped/22/修沙发/钉子2.png",
+        "file_size_reduction": "79%"
+      },
+      "22/修沙发/钉子原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 166,
+        "height": 194,
+        "offset": {
+          "x": 1237,
+          "y": 939
+        },
+        "output_path": "cropped/22/修沙发/钉子原.png",
+        "file_size_reduction": "78%"
+      },
+      "22/修沙发/钉子定好.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 148,
+        "height": 194,
+        "offset": {
+          "x": 1255,
+          "y": 939
+        },
+        "output_path": "cropped/22/修沙发/钉子定好.png",
+        "file_size_reduction": "79%"
+      },
+      "22/修沙发/锤子动.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 165,
+        "height": 219,
+        "offset": {
+          "x": 1113,
+          "y": 994
+        },
+        "output_path": "cropped/22/修沙发/锤子动.png",
+        "file_size_reduction": "50%"
+      },
+      "22/修沙发/锤子原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 167,
+        "height": 211,
+        "offset": {
+          "x": 1083,
+          "y": 1003
+        },
+        "output_path": "cropped/22/修沙发/锤子原.png",
+        "file_size_reduction": "59%"
+      },
+      "22/修沙发/锯子原.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 358,
+        "height": 318,
+        "offset": {
+          "x": 1899,
+          "y": 1061
+        },
+        "output_path": "cropped/22/修沙发/锯子原.png",
+        "file_size_reduction": "68%"
+      },
+      "22/修沙发/锯子锯完.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 358,
+        "height": 318,
+        "offset": {
+          "x": 1926,
+          "y": 1253
+        },
+        "output_path": "cropped/22/修沙发/锯子锯完.png",
+        "file_size_reduction": "68%"
+      },
+      "22/物品/木头选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 713,
+        "height": 270,
+        "offset": {
+          "x": 903,
+          "y": 1563
+        },
+        "output_path": "cropped/22/物品/木头选择.png",
+        "file_size_reduction": "51%"
+      },
+      "22/物品/木头道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 660,
+        "height": 270,
+        "offset": {
+          "x": 956,
+          "y": 1563
+        },
+        "output_path": "cropped/22/物品/木头道具未选择.png",
+        "file_size_reduction": "57%"
+      },
+      "22/物品/钉子选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 286,
+        "height": 179,
+        "offset": {
+          "x": 1828,
+          "y": 1581
+        },
+        "output_path": "cropped/22/物品/钉子选择.png",
+        "file_size_reduction": "69%"
+      },
+      "22/物品/钉子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 203,
+        "height": 138,
+        "offset": {
+          "x": 1862,
+          "y": 1604
+        },
+        "output_path": "cropped/22/物品/钉子道具未选择.png",
+        "file_size_reduction": "81%"
+      },
+      "22/物品/锤子选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 287,
+        "height": 186,
+        "offset": {
+          "x": 1518,
+          "y": 1578
+        },
+        "output_path": "cropped/22/物品/锤子选择.png",
+        "file_size_reduction": "70%"
+      },
+      "22/物品/锤子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 222,
+        "height": 169,
+        "offset": {
+          "x": 1574,
+          "y": 1585
+        },
+        "output_path": "cropped/22/物品/锤子道具未选择.png",
+        "file_size_reduction": "80%"
+      },
+      "22/物品/锯子选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 280,
+        "height": 190,
+        "offset": {
+          "x": 1210,
+          "y": 1578
+        },
+        "output_path": "cropped/22/物品/锯子选择.png",
+        "file_size_reduction": "57%"
+      },
+      "22/物品/锯子道具未选择.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 213,
+        "height": 183,
+        "offset": {
+          "x": 1245,
+          "y": 1584
+        },
+        "output_path": "cropped/22/物品/锯子道具未选择.png",
+        "file_size_reduction": "64%"
+      }
+    },
+    "23最终": {
+      "23最终/内容.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/23最终/内容.png",
+        "file_size_reduction": "2%"
+      },
+      "23最终/总结.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/23最终/总结.png",
+        "file_size_reduction": "-26%"
+      },
+      "23最终/打开的本子图标.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/23最终/打开的本子图标.png",
+        "file_size_reduction": "63%"
+      },
+      "23最终/文本框√.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 151,
+        "height": 151,
+        "offset": {
+          "x": 2171,
+          "y": 1134
+        },
+        "output_path": "cropped/23最终/文本框√.png",
+        "file_size_reduction": "89%"
+      },
+      "23最终/文本框章.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 418,
+        "height": 274,
+        "offset": {
+          "x": 1963,
+          "y": 1041
+        },
+        "output_path": "cropped/23最终/文本框章.png",
+        "file_size_reduction": "45%"
+      },
+      "23最终/文本框背景.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/23最终/文本框背景.png"
+      },
+      "23最终/文本框输入.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2421,
+        "height": 1335,
+        "offset": {
+          "x": 174,
+          "y": 56
+        },
+        "output_path": "cropped/23最终/文本框输入.png",
+        "file_size_reduction": "11%"
+      },
+      "23最终/盖章.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 418,
+        "height": 274,
+        "offset": {
+          "x": 1887,
+          "y": 1123
+        },
+        "output_path": "cropped/23最终/盖章.png",
+        "file_size_reduction": "45%"
+      },
+      "23最终/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/23最终/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "23最终/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/23最终/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "23最终/跳转文本框提示.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1859,
+        "height": 534,
+        "offset": {
+          "x": 430,
+          "y": 1281
+        },
+        "output_path": "cropped/23最终/跳转文本框提示.png",
+        "file_size_reduction": "2%"
+      }
+    },
+    "图标": {
+      "图标/左右场景切换.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 2634,
+        "height": 211,
+        "offset": {
+          "x": 94,
+          "y": 719
+        },
+        "output_path": "cropped/图标/左右场景切换.png",
+        "file_size_reduction": "72%"
+      },
+      "图标/相机.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 192,
+        "height": 195,
+        "offset": {
+          "x": 2546,
+          "y": 302
+        },
+        "output_path": "cropped/图标/相机.png",
+        "file_size_reduction": "60%"
+      },
+      "图标/笔记.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 193,
+        "height": 193,
+        "offset": {
+          "x": 2542,
+          "y": 68
+        },
+        "output_path": "cropped/图标/笔记.png",
+        "file_size_reduction": "50%"
+      },
+      "图标/背包.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1583,
+        "height": 242,
+        "offset": {
+          "x": 638,
+          "y": 1552
+        },
+        "output_path": "cropped/图标/背包.png",
+        "file_size_reduction": "40%"
+      },
+      "图标/菜单栏.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 1491,
+        "height": 600,
+        "offset": {
+          "x": 67,
+          "y": 68
+        },
+        "output_path": "cropped/图标/菜单栏.png",
+        "file_size_reduction": "53%"
+      },
+      "图标/退到上一个场景箭头.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": false,
+        "cropped": true,
+        "width": 124,
+        "height": 189,
+        "offset": {
+          "x": 2571,
+          "y": 1201
+        },
+        "output_path": "cropped/图标/退到上一个场景箭头.png",
+        "file_size_reduction": "91%"
+      }
+    },
+    "_root": {
+      "色谱.png": {
+        "original_width": 2800,
+        "original_height": 1840,
+        "is_background": true,
+        "cropped": false,
+        "width": 2800,
+        "height": 1840,
+        "offset": {
+          "x": 0,
+          "y": 0
+        },
+        "output_path": "cropped/色谱.png"
+      }
+    }
+  }
+}
