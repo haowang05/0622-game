@@ -3,7 +3,7 @@
 ## 1. 场景切换机制
 
 - 统一调用：`QW.TransitionManager.goto(scene, targetKey)`
-- 视觉：仅**跨场景**切换使用黑色淡出 250ms + 淡入 250ms
+- 视觉：仅**跨场景**切换使用黑色淡出 125ms + 淡入 125ms
 - 同场景 `scene.restart()` 或状态刷新：调用 `QW.TransitionManager.finishEnter(scene)`，**不使用**黑色 fade
 - `MainMenu` / `Intro` 首次进入：子元素缓慢 alpha 淡入（非黑幕）
 - 保护：`isTransitioning` 期间禁止重复切换
@@ -12,7 +12,7 @@
 
 - 集中加载：`code/assets/sound/*`
 - BGM：`前bgm(1)`（至 `HouseExterior` 前）→ `后bgm2(1)`（自 `HouseExterior` 起）
-- 点击：`playClick()`；若同帧已触发其它 SFX，则跳过点击音
+- 点击：`playClick()`（独立更小音量）；若同帧已触发其它 SFX，则跳过点击音
 - 专用 SFX：`playWatering()` / `playSaw()` / `playDoor()` / `playSigh()`
 
 ## 2. 通用交互类型
@@ -92,10 +92,15 @@
 链路（仍在 S6）：
 
 1. 笔记图标切打开本子图标
-2. 点击进入黑底覆盖链：内容 -> 盖章 -> 跳转提示
-3. 文本输入阶段支持键盘输入 + 闪烁光标
-4. 提交后保留文字，仅按钮纹理替换为章
-5. 再点击章按钮或遮罩 -> 显示 `总结.png` 并置 `gameCompleted=true`
+2. 点击进入黑底覆盖链：内容 -> 盖章
+3. 到盖章阶段即结束并置 `gameCompleted=true`（不再进入文本输入/总结）
+
+### 5.6 密码开抽屉音效时机
+
+- 输入 `2513` 后，等待 2 秒进入“可开抽屉”状态
+- 需要额外点击一次抽屉区域才真正开抽屉
+- `开门开抽屉声` 在这次“开抽屉点击”播放
+- 日记弹窗弹出与后续领取道具不再触发该音效
 
 ## 6. 输入与光标
 

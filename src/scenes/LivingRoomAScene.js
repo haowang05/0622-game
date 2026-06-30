@@ -89,7 +89,7 @@ QW.LivingRoomAScene = class extends Phaser.Scene {
                         return;
                     }
 
-                    QW.TransitionManager.goto(this, 'SofaRepair');
+                    QW.TransitionManager.gotoImmediate(this, 'SofaRepair');
                     return;
                 }
 
@@ -202,40 +202,11 @@ QW.LivingRoomAScene = class extends Phaser.Scene {
         if (this._endingState === 'content') {
             this._endingState = 'stamp';
             this._endingSprites.stamp = this.factory.create('23最终', '23最终/盖章.png', { depth: 201 });
-            return;
-        }
-
-        if (this._endingState === 'stamp') {
-            this._endingState = 'jumpPrompt';
-            this._endingSprites.jumpPrompt = this.factory.create('23最终', '23最终/跳转文本框提示.png', { depth: 202 });
-            return;
-        }
-
-        if (this._endingState === 'jumpPrompt') {
-            this._destroyEndingSprite('content');
-            this._destroyEndingSprite('stamp');
-            this._destroyEndingSprite('jumpPrompt');
-            this._endingState = 'textBg';
-            this._endingSprites.textBg = this.factory.create('23最终', '23最终/文本框背景.png', { depth: 203 });
-            return;
-        }
-
-        if (this._endingState === 'textBg') {
-            this._endingState = 'typing';
-            this._endingSprites.textInput = this.factory.create('23最终', '23最终/文本框输入.png', { depth: 204 });
-            this._endingSprites.submit = this.factory.createInteractive(
-                '23最终',
-                '23最终/文本框√.png',
-                () => this._submitEndingText(),
-                { depth: 205 }
-            );
-            this._typedText = '';
-            this._createTypingTextAndCursor();
-            return;
-        }
-
-        if (this._endingState === 'submitted') {
-            this._advanceToSummary();
+            this.GS.setFlag('gameCompleted', true);
+            if (this._endingSprites.blocker) {
+                this._endingSprites.blocker.disableInteractive();
+                this._endingSprites.blocker.removeAllListeners('pointerdown');
+            }
             return;
         }
     }

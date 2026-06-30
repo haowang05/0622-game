@@ -107,9 +107,9 @@ QW.GardenSkyScene = class extends Phaser.Scene {
 
     _attachCloudFloat(sprite, index) {
         if (!sprite) return;
-        const driftX = [12, -16, 14][index % 3];
-        const driftY = [6, 4, 7][index % 3];
-        const duration = [5200, 6100, 5600][index % 3];
+        const driftX = [30, -36, 32][index % 3];
+        const driftY = [14, 10, 16][index % 3];
+        const duration = [3800, 4300, 4000][index % 3];
         const tween = this.tweens.add({
             targets: sprite,
             x: sprite.x + driftX,

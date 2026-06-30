@@ -26,6 +26,7 @@ QW.PasswordScene = class extends Phaser.Scene {
     create() {
         const factory = new QW.SpriteFactory(this, QW.AssetLoaderInstance);
         const GS = QW.GameState;
+        this.isUnlocking = false;
 
         // 背景
         factory.createBackground(this.MANIFEST_KEY);
@@ -56,12 +57,30 @@ QW.PasswordScene = class extends Phaser.Scene {
      * 密码未解：显示密码面板，默认 0000，点击每一位循环 0~9
      */
     _renderLockedPasswordPanel(factory) {
+        const GS = QW.GameState;
         factory.create(this.MANIFEST_KEY, '19/密码0-9/空.png', { depth: 50 });
 
         this.currentPassword = [0, 0, 0, 0];
         this._createPasswordSlots();
         this._renderPasswordDigits();
         console.log('[S15] Password locked, current: 0000');
+
+        // 输入正确后，需再点击一次抽屉区域才开抽屉
+        if (GS.getFlag('passwordReadyToOpen')) {
+            this.passwordZones.forEach((zone) => zone && zone.disableInteractive());
+            const panelPos = QW.AssetLoaderInstance.getPosition(this.MANIFEST_KEY, '19/密码0-9/空.png');
+            if (panelPos) {
+                this.add.zone(panelPos.x, panelPos.y, panelPos.width * 0.86, panelPos.height * 0.9)
+                    .setDepth(75)
+                    .setInteractive()
+                    .on('pointerdown', () => {
+                        if (QW.AudioManager) QW.AudioManager.playDoor(this);
+                        GS.setFlag('passwordSolved', true);
+                        GS.setFlag('passwordReadyToOpen', false);
+                        this.scene.restart();
+                    });
+            }
+        }
     }
 
     _createPasswordSlots() {
@@ -111,7 +130,7 @@ QW.PasswordScene = class extends Phaser.Scene {
             this.isUnlocking = true;
             this.passwordZones.forEach((zone) => zone && zone.disableInteractive());
             this.time.delayedCall(2000, () => {
-                QW.GameState.setFlag('passwordSolved', true);
+                QW.GameState.setFlag('passwordReadyToOpen', true);
                 this.scene.restart();
             });
         }
@@ -124,7 +143,6 @@ QW.PasswordScene = class extends Phaser.Scene {
     _renderOpenedDrawer(factory) {
         factory.createInteractive(this.MANIFEST_KEY, '19/开抽屉.png',
             () => {
-                if (QW.AudioManager) QW.AudioManager.playDoor(this);
                 this._handleOpenedDrawerClick();
             },
             { depth: 45, playClick: false }

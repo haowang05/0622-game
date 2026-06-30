@@ -6,9 +6,11 @@
 
 (function () {
     'use strict';
-    const APP_VERSION = 'v0.3.30-20260630-2359';
+    const APP_VERSION = 'v0.3.31-20260701-0012';
     window.QW = window.QW || {};
     window.QW.APP_VERSION = APP_VERSION;
+
+    let versionBadgeVisible = true;
 
     function ensureVersionBadge() {
         let versionBadge = document.getElementById('game-version-badge');
@@ -31,6 +33,7 @@
             document.body.appendChild(versionBadge);
         }
         versionBadge.textContent = `版本 ${APP_VERSION}`;
+        versionBadge.style.display = versionBadgeVisible ? 'block' : 'none';
     }
 
     // -------- BootScene：负责加载 manifest --------
@@ -245,6 +248,13 @@
 
     // 切换调试面板
     document.addEventListener('keydown', (e) => {
+        if (e.key === 'v' || e.key === 'V') {
+            versionBadgeVisible = !versionBadgeVisible;
+            const versionBadge = document.getElementById('game-version-badge');
+            if (versionBadge) {
+                versionBadge.style.display = versionBadgeVisible ? 'block' : 'none';
+            }
+        }
         if (e.key === 'd' || e.key === 'D') {
             if (!debugPanel) createDebugPanel();
             debugPanelVisible = !debugPanelVisible;

@@ -50,6 +50,7 @@ QW.GameState = {
 
         // 卧室/密码
         passwordSolved: false,
+        passwordReadyToOpen: false,
         diaryRead: false,
         passwordLooted: false,
 

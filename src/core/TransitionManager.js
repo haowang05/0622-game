@@ -1,6 +1,6 @@
 /**
  * TransitionManager — 场景过渡管理器
- * 跨场景：黑色淡出 250ms + 淡入 250ms
+ * 跨场景：黑色淡出 125ms + 淡入 125ms
  * 同场景 restart / 状态刷新：不黑屏 fade
  * MainMenu / Intro：子元素缓慢淡入
  */
@@ -8,7 +8,7 @@ window.QW = window.QW || {};
 
 QW.TransitionManager = {
 
-    FADE_DURATION: 250,
+    FADE_DURATION: 125,
     SLOW_REVEAL_DURATION: 900,
     isTransitioning: false,
 
@@ -44,6 +44,8 @@ QW.TransitionManager = {
         }
 
         if (data.fromSceneTransition) {
+            // 消费一次性跨场景标记，避免 scene.restart() 误触发 fade
+            data.fromSceneTransition = false;
             this.fadeIn(scene);
         } else {
             this._instantEnter(scene);
@@ -55,7 +57,7 @@ QW.TransitionManager = {
         newScene.cameras.main.once('camerafadeincomplete', () => {
             this._unlock(newScene);
         });
-        newScene.time.delayedCall(this.FADE_DURATION + 100, () => {
+        newScene.time.delayedCall(this.FADE_DURATION + 50, () => {
             this._unlock(newScene);
         });
     },

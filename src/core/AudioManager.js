@@ -18,7 +18,7 @@ QW.AudioManager = {
     _queued: false,
     _currentBgmKey: null,
     _suppressClickThisFrame: false,
-    _bgmVolume: 0.45,
+    _bgmVolume: 0.32,
     _bgmFrontVolume: 0.62,
     _sfxVolume: 0.85,
     _clickVolume: 0.55,

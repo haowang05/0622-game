@@ -38,7 +38,7 @@ QW.SofaRepairScene = class extends Phaser.Scene {
         factory.createInteractive(this.MANIFEST_KEY, '22/修沙发/X修沙发弹窗.png',
             () => {
                 console.log('[S16] Close repair popup → LivingRoomA');
-                QW.TransitionManager.goto(this, 'LivingRoomA');
+                QW.TransitionManager.gotoImmediate(this, 'LivingRoomA');
             },
             { depth: 120 }
         );
